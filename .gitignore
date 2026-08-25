@@ -1,0 +1,16 @@
+# CLion
+.idea/
+
+# CMake
+cmake-build-*/
+
+# 编译文件
+*.o
+*.elf
+*.hex
+*.bin
+*.map
+
+# 调试文件
+Debug/
+Release/
